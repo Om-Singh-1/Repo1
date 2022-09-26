@@ -3,6 +3,7 @@ package com.transport.system;
 public class AllVehiclesFeatureList {
 
 	public static void main(String[] args) {
+		
 		Car car = new Car();
 		Bus bus = new Bus();
 		Truck truck = new Truck();
