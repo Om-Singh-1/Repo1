@@ -26,4 +26,10 @@ public class Car extends VehicleFeatures{
 		return false;
 	}
 
+	@Override
+	boolean FogLamp() {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
 }

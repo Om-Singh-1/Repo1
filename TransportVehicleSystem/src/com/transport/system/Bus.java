@@ -26,4 +26,10 @@ public class Bus extends VehicleFeatures{
 		return true;
 	}
 
+	@Override
+	boolean FogLamp() {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
 }
